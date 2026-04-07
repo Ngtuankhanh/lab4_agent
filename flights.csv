@@ -1,0 +1,16 @@
+origin,destination,airline,departure,arrival,price,class
+Hà Nội,Đà Nẵng,Vietnam Airlines,06:00,07:20,1450000,economy
+Hà Nội,Đà Nẵng,Vietnam Airlines,14:00,15:20,2800000,business
+Hà Nội,Đà Nẵng,VietJet Air,08:30,09:50,890000,economy
+Hà Nội,Đà Nẵng,Bamboo Airways,11:00,12:20,1200000,economy
+Hà Nội,Phú Quốc,Vietnam Airlines,07:00,09:15,2100000,economy
+Hà Nội,Phú Quốc,VietJet Air,10:00,12:15,1350000,economy
+Hà Nội,Phú Quốc,VietJet Air,16:00,18:15,1100000,economy
+Hà Nội,Hồ Chí Minh,Vietnam Airlines,06:00,08:10,1600000,economy
+Hà Nội,Hồ Chí Minh,VietJet Air,07:30,09:40,950000,economy
+Hà Nội,Hồ Chí Minh,Bamboo Airways,12:00,14:10,1300000,economy
+Hà Nội,Hồ Chí Minh,Vietnam Airlines,18:00,20:10,3200000,business
+Hồ Chí Minh,Đà Nẵng,Vietnam Airlines,09:00,10:20,1300000,economy
+Hồ Chí Minh,Đà Nẵng,VietJet Air,13:00,14:20,780000,economy
+Hồ Chí Minh,Phú Quốc,Vietnam Airlines,08:00,09:00,1100000,economy
+Hồ Chí Minh,Phú Quốc,VietJet Air,15:00,16:00,650000,economy
